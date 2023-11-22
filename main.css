@@ -70,7 +70,7 @@ body {
 /* Laptop screen sizes and above, progressively enhanced */
 @media (min-width: 1200px) {
     body {
-        background: pink;
+        background: liner-gradient(blue, pink);
     }
 
     .fancy-text>h1 {
