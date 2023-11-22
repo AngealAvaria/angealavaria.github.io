@@ -43,7 +43,7 @@
 }
 
 body {
-    background: liner-gradient(to right, blue, plum, red);
+    background: liner-gradient(to right, blue, red);
 }
 
 .wrapper {
@@ -70,7 +70,7 @@ body {
 /* Laptop screen sizes and above, progressively enhanced */
 @media (min-width: 1200px) {
     body {
-        background: liner-gradient(to right, blue, plum, red);
+        background: liner-gradient(to right, blue, red);
     }
 
     .fancy-text>h1 {
