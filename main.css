@@ -43,7 +43,7 @@
 }
 
 body {
-    background: liner-gradient(deg90, blue, red);
+    background: liner-gradient(deg90, blue);
 }
 
 .wrapper {
