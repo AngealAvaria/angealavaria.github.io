@@ -43,7 +43,7 @@
 }
 
 body {
-    background: liner-gradient(deg90, blue);
+    background-color: #bf00ff;
 }
 
 .wrapper {
@@ -68,9 +68,10 @@ body {
 }
 
 /* Laptop screen sizes and above, progressively enhanced */
+/* We'll try to add liner-gradient later using multiple colors we'll also just start with one.*/
 @media (min-width: 1200px) {
     body {
-        background: liner-gradient(deg90, blue);
+        background-color: #bf00ff;
     }
 
     .fancy-text>h1 {
