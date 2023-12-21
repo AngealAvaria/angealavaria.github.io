@@ -42,6 +42,8 @@
     color: #000;
 }
 
+/* Adding opacity to element with #colors affects entire element. Going to have to use hsla to get opacity on just the colors*/
+
 body {
     background-color: #bf00ff;
     opacity: 0.6;
