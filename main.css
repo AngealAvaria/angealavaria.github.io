@@ -44,6 +44,7 @@
 
 body {
     background-color: #bf00ff;
+    opacity: 0.6;
 }
 
 .wrapper {
@@ -72,6 +73,7 @@ body {
 @media (min-width: 1200px) {
     body {
         background-color: #bf00ff;
+        opacity: 0.6;
     }
 
     .fancy-text>h1 {
